@@ -34,5 +34,15 @@ pub fn Hero() -> Element {
                 a { href: "https://discord.gg/XgGxMSkvUM", "👋 Community Discord" }
             }
         }
+
+        div{
+             p {
+            "Hi People,", " I love coding"
+        }
+         span {
+            "Messing around haha!"
+         }
+        }
+       
     }
 }
